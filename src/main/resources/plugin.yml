@@ -1,0 +1,4 @@
+name: MuteAdditions
+version: '${project.version}'
+main: net.envexus.muteadditions.MuteAdditions
+api-version: '1.20'
